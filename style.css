@@ -1,0 +1,22 @@
+h1{
+    text-align:center;
+    position:relative;
+    top:300px;
+}
+form{
+    text-align:center;
+    position:relative;
+    top:300px;
+}
+.crypto{
+    position:relative;
+    top:200px;
+    width:300px;
+    float:right;
+}
+.bookmarks{
+    text-align: center;
+    position:relative;
+    top:305px;
+    right:68px;
+}
