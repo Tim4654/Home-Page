@@ -20,3 +20,6 @@ form{
     top:305px;
     right:68px;
 }
+html, body{
+    background-color:rgb(224, 224, 224);
+}
