@@ -21,12 +21,14 @@ form{
     text-align: center;
     position:relative;
     top:285px;
-    right:94px;
+    right:60px;
+    font-size:24px;
 }
 .bookmarks a{
     margin:0 10px;
-    color:lightblue
-    
+    color:lightblue;
+    transition:.15s;
+   vertical-align: top;
 }
 body{
     background-color:rgb(224, 224, 224);
